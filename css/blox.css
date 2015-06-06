@@ -1,0 +1,13 @@
+#holder {
+  position: absolute; 
+  border: 1px solid black;
+}
+
+.block{
+  position: relative;
+  float: left;
+  border-width: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+
